@@ -1,0 +1,23 @@
+
+
+#################
+## Images
+#################
+
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.psd
+*.ai
+
+
+# Mac crap
+.DS_Store
+
+#################
+## Directories
+#################
+
+
+node_modules/
